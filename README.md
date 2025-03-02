@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate Ai Operations Manager from Pakistan</h3>
+![Header](./github-header-image.png)
+
+[//]: # (<h1 align="center">Hi 👋, I'm Ali</h1>)
+
+[//]: # (<h3 align="center">A passionate Ai Operations Manager from Pakistan</h3>)
 
 
 - 🌱 I’m currently learning **AiOps**
