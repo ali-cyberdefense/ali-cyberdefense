@@ -16,6 +16,7 @@
 
 <h2>📺 Selenium Porjects</h2>
 
+- [Automate AWS S3 Operations](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Automate%20AWS%20S3%20Operations)
 
 <h2>Languages and Tools:</h2>
 
