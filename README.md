@@ -8,13 +8,11 @@
 
 - 📫 Reach me at **ali.cyberdefense@gmail.com**
 
-<h2>👨‍💻 Python Automation on Cloud:</h2>
+<h2>👨‍💻 Selenium on Cloud</h2>
 
-- <b>Python Projects</b>
-  - [Basics to Advance](https://github.com/ali-cyberdefense/PythonProjects)
   - [Python Selenium](https://github.com/ali-cyberdefense/PythonSelenium)
 
-<h2>📺 Selenium Porjects</h2>
+<h2>📺 Python Automation on Cloud</h2>
 
 - [Automate AWS S3 Operations](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Automate%20AWS%20S3%20Operations)
 - [Cloud Watch Metrics & Dashboard](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Cloud%20Watch%20Metrics%20%26%20Dashboard)
