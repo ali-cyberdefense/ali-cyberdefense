@@ -17,6 +17,11 @@
 <h2>📺 Selenium Porjects</h2>
 
 - [Automate AWS S3 Operations](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Automate%20AWS%20S3%20Operations)
+- [Cloud Watch Metrics & Dashboard](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Cloud%20Watch%20Metrics%20%26%20Dashboard)
+- [Configure AWS SDK & Develop a Stack](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Configure%20AWS%20SDK%20%26%20Develop%20a%20Stack)
+- [Create & Configure Elastic Load Balancer (ELB)](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Create%20%26%20Configure%20Elastic%20Load%20Balancer%20(ELB))
+- [Create RDS Instance & Take Backup](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Create%20RDS%20Instance%20%26%20Take%20Backup)
+- [Start-Stop-Monitor EC2](https://github.com/ali-cyberdefense/PythonProjects/tree/main/Start-Stop-Monitor%20EC2)
 
 <h2>Languages and Tools:</h2>
 
