@@ -10,8 +10,9 @@
 
 <h2>👨‍💻 Python Automation on Cloud:</h2>
 
-- <b>All Python Automation Projects</b>
+- <b>Python Projects</b>
   - [Basics to Advance](https://github.com/ali-cyberdefense/PythonProjects)
+  - [Python Selenium](https://github.com/ali-cyberdefense/PythonSelenium)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
